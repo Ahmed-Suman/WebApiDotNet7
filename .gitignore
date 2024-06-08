@@ -100,6 +100,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.vscode
 
 # Chutzpah Test files
 _Chutzpah*
@@ -476,3 +477,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 API/appsettings.json
+global.josn
